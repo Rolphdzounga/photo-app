@@ -4,3 +4,5 @@
     AWS_SECRET_KEY: "4ePN/avZP+NzHmA2SuJMGQ9En8hBwHXgeki21mH8"
 
     AWS_BUCKET: "phappimage"
+
+    AWS_REGION: "us-west-2"
