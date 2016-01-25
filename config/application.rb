@@ -24,11 +24,11 @@ module PhotoApp
     config.active_record.raise_in_transactional_callbacks = true
 
 
-    AWS_ACCESS_KEY: "AKIAJB3NOXHCAE4PF27A"
+    AWS_ACCESS_KEY = "AKIAJB3NOXHCAE4PF27A"
 
-    AWS_SECRET_KEY: "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"
+    AWS_SECRET_KEY = "4ePN/avZP+NzHmA2SuJMGQ9En8hBwHXgeki21mH8"
 
-    AWS_BUCKET: "phappimage"
+    AWS_BUCKET = "phappimage"
 
   end
 end
